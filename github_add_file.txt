@@ -1,2 +1,0 @@
-just add a file on github
-this line is added in terminal
