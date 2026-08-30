@@ -1,1 +1,2 @@
-THis file and this line is added in terminal
+THis file and this line is added in terminal in term_test_2 branch
+This line is edited in in temrinal in main branch
