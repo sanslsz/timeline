@@ -1,2 +1,3 @@
 This file is added on GH
 this line is added in term in term_test_2 to create a conflict when merge
+this line is added on GH for the forked repo to pull
