@@ -1,3 +1,7 @@
 this file is created in the terminal
 Edit this line in the feature branch, this time for real
+<<<<<<< HEAD
 Ok, i'm add this line in the main branch to create a merge conflict
+=======
+add this line to create a merge conflict for gitlab
+>>>>>>> term_test_branch
